@@ -6,7 +6,10 @@
     </div>
     <div class="mid-col">
       <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
-      <div class="body-wrap"><%- body %></div>
+      <div class="body-wrap">
+        <%- body %>
+        <div id="gitalk-container"></div>
+      </div>
       <%- partial('_partial/footer') %>
     </div>
     <%- partial('_partial/after-footer') %>
