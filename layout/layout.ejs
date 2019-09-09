@@ -8,7 +8,9 @@
       <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
       <div class="body-wrap">
         <%- body %>
+        <% if (is_post()){ %>
         <div id="gitalk-container"></div>
+        <% } %>
       </div>
       <%- partial('_partial/footer') %>
     </div>
