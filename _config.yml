@@ -242,7 +242,7 @@ fancybox: true
 ## https://www.mathjax.org/
 mathjax: false
 
-# Socail Share | 是否开启分享
+# Social Share | 是否开启分享
 share:
   on: true
   baidu: true
@@ -254,6 +254,7 @@ share:
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
 baidu_site: 'c3eiVbsijD'
+gitee_baidu_site: 'IiAMV60T9S'
 google_site: 'e3G9RAX4RlFQRxsKCcLH-wG2XwuAWIRGJDz5fASHmJY'
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
