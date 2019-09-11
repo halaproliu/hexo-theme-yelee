@@ -258,6 +258,7 @@ google_site: 'e3G9RAX4RlFQRxsKCcLH-wG2XwuAWIRGJDz5fASHmJY'
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
 google_analytics:
+google_tags: G-V5X6N8LG8R
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容
