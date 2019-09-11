@@ -256,6 +256,7 @@ share:
 baidu_site: 'c3eiVbsijD'
 gitee_baidu_site: 'IiAMV60T9S'
 google_site: 'e3G9RAX4RlFQRxsKCcLH-wG2XwuAWIRGJDz5fASHmJY'
+gitee_google_site: 'FjyOTrlNb6EjbhMZYPdrRy8TmNOvKP-8DuaKqo0n4N8'
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
 google_analytics:
