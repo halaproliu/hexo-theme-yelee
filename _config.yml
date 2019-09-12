@@ -254,9 +254,9 @@ share:
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
 baidu_site: 'c3eiVbsijD'
-gitee_baidu_site: 'IiAMV60T9S'
+self_baidu_site: 'XV5dMUCplX'
 google_site: 'e3G9RAX4RlFQRxsKCcLH-wG2XwuAWIRGJDz5fASHmJY'
-gitee_google_site: 'FjyOTrlNb6EjbhMZYPdrRy8TmNOvKP-8DuaKqo0n4N8'
+self_google_site: 'Xc5nXsYqiW_CPitgBqG82UwV24LmXwWKaZO4t3c5VLQ'
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
 google_analytics:
