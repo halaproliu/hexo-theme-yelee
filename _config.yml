@@ -255,6 +255,7 @@ share:
 # Site Verification for Google and Baidu. HTML label content.
 baidu_site: 'c3eiVbsijD'
 self_baidu_site: 'XV5dMUCplX'
+coding_baidu_site: 'LwdwHVqlVm'
 google_site: 'e3G9RAX4RlFQRxsKCcLH-wG2XwuAWIRGJDz5fASHmJY'
 self_google_site: 'Xc5nXsYqiW_CPitgBqG82UwV24LmXwWKaZO4t3c5VLQ'
 
