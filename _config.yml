@@ -92,8 +92,8 @@ show_count: false
 ## Add comment count after article title
 
 disqus:
-  #on: true
-  shortname:
+  on: true
+  shortname: halaproliu
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
   # It is unnecessary to enable disqus here if
   # you have set "disqus_shortname" in your site's "_config.yml"
@@ -315,10 +315,10 @@ feed:
   order_by: -date
   icon: icon.png
 
-gittalk:
-  clientID: '5e155682322e38d7c2b4'
-  clientSecret: '1368562e723cd87762dde9ec44d6554c3fcda034'
-  repo: 'halaproliu.github.io'
-  owner: 'halaproliu'
-  admin: ['halaproliu']
-  distractionFreeMode: false
+# gittalk:
+#   clientID: '5e155682322e38d7c2b4'
+#   clientSecret: '1368562e723cd87762dde9ec44d6554c3fcda034'
+#   repo: 'halaproliu.github.io'
+#   owner: 'halaproliu'
+#   admin: ['halaproliu']
+#   distractionFreeMode: false

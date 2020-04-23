@@ -145,7 +145,7 @@ if ( is_archive() ) {
         repo: '<%=theme.gittalk.repo %>',
         owner: '<%=theme.gittalk.owner %>',
         admin: ['<%=theme.gittalk.admin %>'],
-        distractionFreeMode: <%=theme.gittalk.distractionFreeMode %>
+        distractionFreeMode: '<%=theme.gittalk.distractionFreeMode %>'
       }
       var _options = Object.assign({}, _defaultGitTalk, options)
       var gitalk = new Gitalk(_options)
